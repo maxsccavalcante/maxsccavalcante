@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Max Cavalcante
 =======================================================================================================================================
 
-Web Developer, C, Java, BI, ML
+Web Developer, Database, Data Science, Machine Learning, BI
 ------------------------------
 
 🇧🇷:
@@ -53,7 +53,7 @@ Adaptability: Ability to handle changes, learn new tools, technologies, and proc
 * 🌍  I'm based in João Pessoa - PB - Brasil
 * ✉️  You can contact me at [maxsccavalcante@gmail.com](mailto:maxsccavalcante@gmail.com)
 * 🧠  I'm currently learning Universidade Cruzeiro do Sul - Unipê
-* 👥  I'm looking to collaborate on Dados, Business Intelligence (BI) e Machine Learning. Estou aberto a participar de projetos nessas áreas, buscando aplicar meus conhecimentos, desenvolver novas habilidades e contribuir na análise de dados, geração de insights e desenvolvimento de soluções baseadas em tecnologia. 🇺🇸 / 🇬🇧 Data, Business Intelligence (BI), and Machine Learning. I am open to participating in projects in these areas, aiming to apply my knowledge, develop new skills, and contribute to data analysis, insight generation, and technology-driven solutions.
+* 👥  I'm looking to collaborate on Database, Data Science, Business Intelligence (BI) e Machine Learning. Estou aberto a participar de projetos nessas áreas, buscando aplicar meus conhecimentos, desenvolver novas habilidades e contribuir na análise de dados, geração de insights e desenvolvimento de soluções baseadas em tecnologia. 🇺🇸 / 🇬🇧 Data, Business Intelligence (BI), and Machine Learning. I am open to participating in projects in these areas, aiming to apply my knowledge, develop new skills, and contribute to data analysis, insight generation, and technology-driven solutions.
 * 💬  Ask me about 🇧🇷 Sou um cara que acorda e quer resolver problemas. 🇺🇸 / 🇬🇧 I'm a guy who wakes up and wants to solve problems.
 
 <p align="left">
